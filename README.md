@@ -1,4 +1,4 @@
-# Jogadores mais caçados
+# Rank dos Jogadores
 Jogadores que mais sofrem faltas no Campeonato Brasileiro
 
 ## Link da Reportagem do Globo Esporte
